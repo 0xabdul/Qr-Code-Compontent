@@ -7,8 +7,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 <ul>
-<li>Live Site Url: <a href=""></a></li>
-<li>Solution</li>
+<li>Live Site URL: <a href="">Click Here</a></li>
+<li>Solution URL: <a href="">Click Here</a></li>
 </ul>
 
 ## My process
