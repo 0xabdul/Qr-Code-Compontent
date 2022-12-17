@@ -15,6 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
+
 ## Author<br>
 - Frontend Mentor - [@oxabdul](https://www.frontendmentor.io/profile/0xAbdul)<br>
 
@@ -22,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-## Acknowledgments
+## Acknowledgments<br>
 <ul>
-<li>Inspiration by <a href="https://www.frontendmentor.io/profile/0xAbdul"</li>
-</ul>
+  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
+
 
