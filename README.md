@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 <ul>
-<li>Live Site URL: <a href="https://0xabdul.github.io/Qr-Code-Compontent/">Click Here</a></li>
+<li>Live Site URL: <a href="https://0xabdul.github.io/Qr-Code-Compontent/">Click Here</a></li><br>
 <li>Solution URL: <a href="https://www.frontendmentor.io/solutions/qr-code-component-ZwM83rVMvZ">Click Here</a></li>
 </ul><br>
 
