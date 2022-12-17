@@ -15,10 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-## Author
-<ul>
-<li>Fronend Mentor- <a href="https://www.frontendmentor.io/profile/0xAbdul"</li>
-</ul>
+## Author<br>
+- Frontend Mentor - [@oxabdul](https://www.frontendmentor.io/profile/0xAbdul)<br>
 
 
 
