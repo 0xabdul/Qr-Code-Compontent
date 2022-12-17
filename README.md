@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 <ul>
-  <li>learning more about image hover</li>
-  <li>learn more about padding</li>
+  <li>practiced padding</li>
+  <li>learn about land mark</li>
   <li> practiced more about responsive</li>
   </ul><br>
 
