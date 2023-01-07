@@ -41,6 +41,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments<br>
 <ul>
-  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
+  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>.
 
 
