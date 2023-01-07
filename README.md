@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 <ul>
-<li>Live Site URL: <a href="">Click Here</a></li><br>
+<li>Live Site URL: <a href="https://0xabdul.github.io/Qr-Code-Compontent/">Click Here</a></li><br>
 <li>Solution URL: <a href="https://www.frontendmentor.io/solutions/qr-code-component-qU-db2310w">Click Here</a></li>
 </ul><br>
 
@@ -41,6 +41,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments<br>
 <ul>
-  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>.
+  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
 
 
